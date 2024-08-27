@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the defined tasks If user has &quot;Maintenance&quot; role in the control system</description>
+   <name>LGW-724-MaintanenceRoleCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf722f42-3b21-4609-90d9-6109928a3af5</testCaseGuid>
+</TestCaseEntity>

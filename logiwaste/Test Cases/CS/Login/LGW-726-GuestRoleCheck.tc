@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the defined tasks If user has &quot;Guest&quot; role in the control system</description>
+   <name>LGW-726-GuestRoleCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f36b938f-f9b2-4525-8a78-b4478d560156</testCaseGuid>
+</TestCaseEntity>

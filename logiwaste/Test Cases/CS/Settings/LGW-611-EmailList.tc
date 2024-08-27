@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Email List section along with Add, Delete, Update, Active &amp; Inactive</description>
+   <name>LGW-611-EmailList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf299798-0684-4f35-a27d-cd6a7aacd82d</testCaseGuid>
+</TestCaseEntity>

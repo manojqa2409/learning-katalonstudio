@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the defined tasks If user has &quot;Operator&quot; role in the control system</description>
+   <name>LGW-725-OperatorRoleCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83c8fb68-1cd2-42c1-af0c-11dd2d9bbb38</testCaseGuid>
+</TestCaseEntity>

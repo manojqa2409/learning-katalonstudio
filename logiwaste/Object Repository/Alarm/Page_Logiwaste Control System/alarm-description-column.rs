@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alarm-description-column</name>
+   <tag></tag>
+   <elementGuidId>fcaf358f-5928-4433-b033-6424d4145927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[2]/div/div/div[1]/div[2]/div/div/div/div/div[2]/table/tbody/tr[1]/td[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

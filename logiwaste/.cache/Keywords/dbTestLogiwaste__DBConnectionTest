@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "C3DCA5DB58E94C14B73261E42806E069",
+  "keywordClasses": [
+    {
+      "name": "dbTestLogiwaste.DBConnectionTest",
+      "keywordMethods": [
+        {
+          "name": "exeDBQuery",
+          "parameters": [
+            {
+              "name": "queryString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "closelogiwastedbConn",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

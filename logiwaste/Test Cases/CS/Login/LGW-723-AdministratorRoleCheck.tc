@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the defined tasks If user has &quot;Administrator&quot; role in the control system</description>
+   <name>LGW-723-AdministratorRoleCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>593d1afa-a4c8-4071-a84b-b28b3c471eb7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb03595f-3fe8-4479-a0b4-a67b01526ae6</id>
+      <masked>false</masked>
+      <name>Firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fc64af1-2e86-4320-85c6-fdb626a39400</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b894484b-cebd-4d60-b447-f54b58413a1a</id>
+      <masked>false</masked>
+      <name>Emailaddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef2dabdc-dad1-4443-af2b-7bb2568d27f6</id>
+      <masked>false</masked>
+      <name>Confirmemailaddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3aff4878-1ea8-413e-854e-6c0c373676bc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>534b21af-978f-457d-9e3a-7d36414992c2</id>
+      <masked>false</masked>
+      <name>Confirmpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d9fe29d-45dd-4ab8-b369-739cbe27d9e3</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>
